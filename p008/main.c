@@ -12,7 +12,7 @@ int F(int x)
 int main()
 {
 	int a  = 4;
-	printf("F(4) is : %d\n", F(4));
+	printf("F(4) is : %d\n", F(a));
 	return 0;
 }
 
