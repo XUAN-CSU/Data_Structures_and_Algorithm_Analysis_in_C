@@ -6,3 +6,6 @@ test two new line
 
 # 202411191948 at the 813 single room
 test one new line
+
+# 202411191953 at the 813 single room
+test the new git config new username and useremail
