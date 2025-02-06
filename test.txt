@@ -3,3 +3,5 @@
 WLC add at home 202501271118
 
 WLC add at home 202501280938
+
+WLC add at 002197 wsl ubuntu-22.04
